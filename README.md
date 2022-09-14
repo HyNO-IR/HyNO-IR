@@ -1,13 +1,13 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=--+HyNO+--;FOLLOW+MY+INSTAGRAM;+CHECK+NEW+REPOS&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=--+I'M+HyNO+--;FOLLOW+MY+INSTAGRAM;+CHECK+NEW+REPOS&center=true&size=30">
   </a>
 </h1
   >
 <br /> 
 
-- 📂 Check our new public [Repos](https://github.com/HyNO-IR?tab=repositories)
-- 📸 Join our [Instagram](https://www.instagram.com/HYNO_TY/) community
+- 📂 Check my new public [Repos](https://github.com/HyNO-IR?tab=repositories)
+- 📸 Join my [Instagram](https://www.instagram.com/HYNO_TY/) community
 - 👤 You can contact us on [Whatsapp](https://wa.me/989389383634) messenger
 
 ---
