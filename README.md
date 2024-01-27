@@ -9,7 +9,7 @@ function aboutMe() {
   let dev = "fullstack developer";
   let HyNO = ["JavaScript", "TypeScript", "Node.js", "React.js", "Next.js", "C#", "Html", "Css"و "Sass"]
 
-  return console.log("Hi, my name is ${name1} & ${age} years old. I'm a ${dev}. I know ${HyNO}. My country is ${ctr} and i live in ${cit}")};
+  return console.log("Hi, my name is ${name} & ${age} years old. I'm a ${dev}. I know ${HyNO}. My country is ${ctr} and i live in ${cit}")};
 ```
 - How to reach me: [Email](mailto:seyedhyno@gmail.com), [WhatsApp](https://wa.me/989389383634)
 
